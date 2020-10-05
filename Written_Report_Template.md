@@ -1,11 +1,11 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+  The Kickstarting with Excel project aims at drawing conclusions based off of the raw data that has been collected on successful, failed, and canceled kickstarters. 
 ### Purpose
-
+  The purpose of the Kickstarting with excel project was to discover the relvant trends with kickstarters to be able to have more knowledge on what factors contribute to a successful kickstarter. 
 ## Analysis and Challenges
-
+  
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
